@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Andrés
 
-## I'm a Student, Developer and a Passionate about the world of programming
+## I'm a Student, Developer and a Passionate about the world of programming.
 - 📚 I'm currently studing softwarer engineer.
 - 🕐 Using all my free time to learn new technologies.
 - 🖥️ I'm currently colaborating in [Noheaven Technologies][nhweb].
@@ -22,7 +22,7 @@
 </div>
 
 
-## Databases and frameworks
+## Databases and frameworks:
 
 <div>
 <img aling="left" width="38px" src = "https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png"/>
@@ -33,12 +33,12 @@
 </div>
 
 
-## Version Control
+## Version Control:
 <img aling="left" width="32px" src = "https://cdn-icons-png.flaticon.com/512/25/25231.png"/>   <img aling="left" width="30px" src = "https://iconape.com/wp-content/png_logo_vector/git-icon.png"/>
 <br/>
 
 
-## Technologies
+## Technologies:
 <div>
     <img align= "left" width="34px" src = "https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png">
     <img align= "left" width="50px" src = "https://kuharanbhowmik.files.wordpress.com/2018/02/api_rest.png">
@@ -47,7 +47,7 @@
 <br>
 </br>
 
-## Some stats
+## Some stats:
 <div >
 <a href="https://github.com/AndresGL01">
     <img height="180em" src ="https://github-readme-stats.vercel.app/api/?username=AndresGL01&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
