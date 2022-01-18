@@ -47,11 +47,21 @@
 <br>
 </br>
 
+## Currently Learning:
+<div>
+    <img align= "left" width="30px" src = "https://user-images.githubusercontent.com/52599841/149922489-42dc3bdd-ba07-4e09-9c7e-8a9caf89cc5f.png">
+    <img align= "left" width="30px" src = "https://luigiasir.files.wordpress.com/2017/10/powershell_5-0_icon.png">
+</div>
+
+<br>
+</br>
+
+
 ## Some stats:
 <div >
 <a href="https://github.com/AndresGL01">
     <img height="180em" src ="https://github-readme-stats.vercel.app/api/?username=AndresGL01&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-
+    
 </a>
 </div>
 
