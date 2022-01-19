@@ -2,10 +2,10 @@
 
 ### Hi there, I'm Andrés
 
-## I'm a Student, Developer and a Passionate about the world of programming.
-- 📚 I'm currently studing softwarer engineer.
-- 🕐 Using all my free time to learn new technologies.
-- 🖥️ I'm currently colaborating in [Noheaven Technologies][nhweb].
+## I'm a Student, Developer and a Passionate about the world of programming
+- 📚 I'm currently studing softwarer engineer
+- 🕐 Using all my free time to learn new technologies
+- 🖥️ I'm currently colaborating in [Noheaven Technologies][nhweb]
 - 👨‍💻 Open to work as a freelancer or in a team!
 
 ## Connect with me:
