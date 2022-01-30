@@ -50,7 +50,6 @@
 
 ## Currently Learning:
 <div>
-    <img align= "left" width="30px" src = "https://user-images.githubusercontent.com/52599841/149922489-42dc3bdd-ba07-4e09-9c7e-8a9caf89cc5f.png">
     <img align= "left" width="30px" src = "https://luigiasir.files.wordpress.com/2017/10/powershell_5-0_icon.png">
 </div>
 
