@@ -48,7 +48,7 @@
 <br>
 </br>
 
-## Currently Learning:
+## Currently Learning...:
 <div>
     <img align= "left" width="30px" src = "https://luigiasir.files.wordpress.com/2017/10/powershell_5-0_icon.png">
 </div>
