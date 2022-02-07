@@ -9,8 +9,6 @@
 - 👨‍💻 Open to work as a freelancer or in a team!
  
 
-
-
 ## Connect with me:
 [<img align= "left" alt= "idk | LinkedIn" width="22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
