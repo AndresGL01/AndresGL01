@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a software enthusiast. I love learning new technologies and methodologies.* 🌍  I'm based in Málaga, Spain* 🖥️  See my portfolio at [my website](http://andrewgl.dev)* 🧠  I'm learning polars and multiprocessing libraries
+I am a software enthusiast. I love learning new technologies and methodologies.
+* 🌍  I'm based in Málaga, Spain
+* 🖥️  See my portfolio at [my website](http://andrewgl.dev)
+* 🧠  I'm learning polars and multiprocessing libraries
 
 ### Skills
 
